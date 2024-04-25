@@ -9,4 +9,6 @@ print("E rir meu riso e derramar meu pranto.")
 print("Ao seu pesar ou seu contentamento")
 print("\n\n\n")
 
-# mudança 2 no arquivoOS
+# mudança 2 no arquivo 
+# Gui
+# Gui
